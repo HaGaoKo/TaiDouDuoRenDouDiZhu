@@ -1,0 +1,6 @@
+E:\UnityProjecty\TaikeDuoRenDouDiZhu\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe.config
+E:\UnityProjecty\TaikeDuoRenDouDiZhu\SocketDemo\SocketDemo\bin\Debug\SocketDemo.exe
+E:\UnityProjecty\TaikeDuoRenDouDiZhu\SocketDemo\SocketDemo\bin\Debug\SocketDemo.pdb
+E:\UnityProjecty\TaikeDuoRenDouDiZhu\SocketDemo\SocketDemo\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\UnityProjecty\TaikeDuoRenDouDiZhu\SocketDemo\SocketDemo\obj\Debug\SocketDemo.exe
+E:\UnityProjecty\TaikeDuoRenDouDiZhu\SocketDemo\SocketDemo\obj\Debug\SocketDemo.pdb
